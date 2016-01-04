@@ -1,4 +1,4 @@
-# Web Site Chrome App Generat
+# Web Site Chrome App Generator
 
 ## How to use this project to build a new chrome App
 
