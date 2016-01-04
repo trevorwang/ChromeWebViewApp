@@ -11,7 +11,7 @@ function updateWebviews() {
         e.preventDefault();
         var url = e.targetUrl;
         chrome.app.window.create(
-            '../webview.html', {
+            '../html/webview.html', {
                 // hidden: true
             }, // only show window when webview is configured
             function(appWin) {
